@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.csproj": {}
+    "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.Domain\\anthropometryAPI.Domain.csproj": {}
   },
   "projects": {
-    "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.csproj": {
+    "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.Domain\\anthropometryAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.csproj",
-        "projectName": "anthropometryAPI",
-        "projectPath": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.csproj",
+        "projectUniqueName": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.Domain\\anthropometryAPI.Domain.csproj",
+        "projectName": "anthropometryAPI.Domain",
+        "projectPath": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.Domain\\anthropometryAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI\\obj\\",
+        "outputPath": "G:\\Repositorios\\anthropometryAPI\\anthropometryAPI\\anthropometryAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,9 +41,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[1.10.9, )"
+              "version": "[9.2.0, )"
             }
           },
           "imports": [
