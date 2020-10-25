@@ -1,9 +1,0 @@
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\bin\Debug\netcoreapp3.1\appsettings.json
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\anthropometryAPI.csprojAssemblyReference.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\anthropometryAPI.AssemblyInfoInputs.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\anthropometryAPI.AssemblyInfo.cs
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\anthropometryAPI.RazorTargetAssemblyInfo.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\staticwebassets\anthropometryAPI.StaticWebAssets.Manifest.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI\obj\Debug\netcoreapp3.1\staticwebassets\anthropometryAPI.StaticWebAssets.xml

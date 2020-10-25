@@ -1,5 +1,0 @@
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI.Domain\bin\Debug\netcoreapp3.1\anthropometryAPI.Domain.deps.json
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI.Domain\bin\Debug\netcoreapp3.1\anthropometryAPI.Domain.dll
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI.Domain\obj\Debug\netcoreapp3.1\anthropometryAPI.Domain.csprojAssemblyReference.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI.Domain\obj\Debug\netcoreapp3.1\anthropometryAPI.Domain.AssemblyInfoInputs.cache
-G:\Repositorios\anthropometryAPI\anthropometryAPI\anthropometryAPI.Domain\obj\Debug\netcoreapp3.1\anthropometryAPI.Domain.AssemblyInfo.cs
